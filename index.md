@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Home"
+title: Home
 ---
 
 <div class="top-nav-wrap">
@@ -16,7 +16,6 @@ title: "Home"
 <section id="home">
 
 # Shinji Kondou
-
 Electrolyte / SEI / Interfacial analysis / Data-driven design
 
 </section>
@@ -24,7 +23,6 @@ Electrolyte / SEI / Interfacial analysis / Data-driven design
 <section id="research">
 
 ## Research
-
 <div class="grid grid-3">
   <div class="card">
     <h3>Electrolyte molecular design</h3>
