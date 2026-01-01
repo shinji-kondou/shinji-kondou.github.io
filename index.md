@@ -59,8 +59,8 @@ Electrolyte / SEI / Interfacial analysis / Data-driven design
 
 ## Contact
 
-- **Affiliation:** Osaka University, Fukui Laboratory  
-- **Email:** your.name [at] example.com  
+- **Affiliation:** Department of Materials Engineering Science Graduate School of Engineering Science The University of Osaka 
+- **Email:** kondou.shinji.es@osaka-u.ac.jp
 - **GitHub:** https://github.com/shinji-kondou
 
 </section>
