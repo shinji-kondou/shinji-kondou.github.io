@@ -13,16 +13,17 @@ title: Home
   </nav>
 </div>
 
-<section id="home">
+<section id="home" markdown="1">
 
 # Shinji Kondou
 Electrolyte / SEI / Interfacial analysis / Data-driven design
 
 </section>
 
-<section id="research">
+<section id="research" markdown="1">
 
 ## Research
+
 <div class="grid grid-3">
   <div class="card">
     <h3>Electrolyte molecular design</h3>
@@ -40,7 +41,7 @@ Electrolyte / SEI / Interfacial analysis / Data-driven design
 
 </section>
 
-<section id="news">
+<section id="news" markdown="1">
 
 ## News
 
@@ -54,7 +55,7 @@ Electrolyte / SEI / Interfacial analysis / Data-driven design
 
 </section>
 
-<section id="contact">
+<section id="contact" markdown="1">
 
 ## Contact
 
